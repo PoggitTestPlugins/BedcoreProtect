@@ -9,12 +9,12 @@ projects:
     path: ""
     icon: resources/bedcoreprotect_logo.png
     libs:
-      - src: poggit/libasynql/libasynql
+      - src: PoggitTestPlugins/libasynql/libasynql
         version: ~3.3.0
-      - src: SOF3/await-generator/await-generator
+      - src: PoggitTestPlugins/await-generator/await-generator
         version: ~2.3.0
-      - src: JackMD/UpdateNotifier/UpdateNotifier
+      - src: PoggitTestPlugins/UpdateNotifier/UpdateNotifier
         version: ~2.0.0
-      - src: matcracker/FormLib/FormLib
+      - src: PoggitTestPlugins/FormLib/FormLib
         version: ~1.1.0
 ...
