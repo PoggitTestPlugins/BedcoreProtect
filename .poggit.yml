@@ -17,4 +17,5 @@ projects:
         version: ~2.0.0
       - src: PoggitTestPlugins/FormLib/FormLib
         version: ~1.1.0
+
 ...
