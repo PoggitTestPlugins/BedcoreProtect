@@ -6,7 +6,6 @@ api: [3.4.0]
 depend: 
   - BlockSniper
   - EconomyCasino
-  - BlockReward
 load: POSTWORLD
 author: matcracker
 description: "BedcoreProtect is a fast, efficient, data logging and anti-griefing tool for PocketMine server. Rollback and restore any amount of damage"
