@@ -8,14 +8,14 @@ projects:
   BedcoreProtect:
     path: ""
     icon: resources/bedcoreprotect_logo.png
-#    libs:
-#      - src: PoggitTestPlugins/libasynql/libasynql
-#        version: ~3.3.0
-#      - src: PoggitTestPlugins/await-generator/await-generator
-#        version: ~2.3.0
-#      - src: PoggitTestPlugins/UpdateNotifier/UpdateNotifier
-#        version: ~2.0.0
-#      - src: PoggitTestPlugins/FormLib/FormLib
-#        version: ~1.1.0
+    libs:
+      - src: PoggitTestPlugins/libasynql/libasynql
+        version: ~3.3.0
+      - src: PoggitTestPlugins/await-generator/await-generator
+        version: ~2.3.0
+      - src: PoggitTestPlugins/UpdateNotifier/UpdateNotifier
+        version: ~2.0.0
+      - src: PoggitTestPlugins/FormLib/FormLib
+        version: ~1.1.0
 
 ...
